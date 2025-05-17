@@ -75,9 +75,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atuf-shaikh&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuf-shaikh&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuf-shaikh&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuf-dev&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuf-dev&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 
@@ -85,8 +84,10 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/atuf-shaikh-28aa3835b/)
-![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)(shaikhatuf@gmail.com; atuftester@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/atuf-shaikh-28aa3835b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikhatuf@gmail.com,atuftester@gmail.com)
+
 
 ---
 
