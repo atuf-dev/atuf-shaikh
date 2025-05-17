@@ -22,6 +22,7 @@
 
 #### 🚀 Languages & Core
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jquery-black?style=flat-square&logo=jquery)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -41,7 +42,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Material-UI](https://img.shields.io/badge/-MUI-black?style=flat-square&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 #### 🛢️ Database
@@ -86,7 +86,7 @@
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://www.linkedin.com/in/atuf-shaikh-28aa3835b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](shaikhatuf@gmail.com; atuftester@gmail.com)
+![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)(shaikhatuf@gmail.com; atuftester@gmail.com)
 
 ---
 
