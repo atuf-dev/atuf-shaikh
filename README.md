@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **CRM systems and automation tools**
 - 🌱 I’m learning **Advanced Backend and Clean Architecture**
 - 💬 Ask me about `React`, `Node.js`, `APIs`, `MSSQL`, or `custom dashboard designs`
-- 📫 Reach me at: shaikhatuf@gmail.com
+- 📫 Reach me at: shaikhatuf99@gmail.com
 - ⚡ Fun fact: I love **coding + video editing** and building **unique automation projects**
 
 ---
